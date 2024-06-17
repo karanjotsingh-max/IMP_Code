@@ -22,3 +22,4 @@ print(arr[1])
 arr2=[4,5]
 arr=arr+arr2
 print(0%10)
+print(49**(1/2))
