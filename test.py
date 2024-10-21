@@ -1,4 +1,5 @@
 # # m=1
+from collections import defaultdict
 # # while(m==1):
     
 # #     m=input(("Enter Your Name: "))
@@ -14,13 +15,12 @@
 
 # for i in range(10,0,-1):
 #     print(i)
-arr=[]
-arr.insert(0,2)
-arr.insert(0,2)
-arr.insert(1,3)
-print(arr[1])
-arr2=[4,5]
-arr=arr+arr2
-print(0%10)
-print(49**(1/2))
-print(arr2[::-1])
+# arr=[1,2,3]
+# arr.remove(2)
+
+
+
+
+
+
+
